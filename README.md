@@ -1,35 +1,32 @@
-Here is a clean and simple layout you can use for your GitHub Repository. You can paste this directly into your README.md file.
+# 🔪 FPS Knife Arena Script | 2026 Edition
+### ⚡ Powered by **CoreTeck** • Official Showcase: **BloxVid**
 
-FPS Knife Arena Script - CoreTeck BloxVid
-Description
-Official CoreTeck script for FPS Knife Arena. This is the best working script for 2026, featuring high-speed combat and automated farming tools. This script is part of the BloxVid official showcase.
+---
 
-Features
-Auto Kill Players: Instantly eliminate everyone in the arena.
+### 📝 **Description**
+The most powerful and efficient script for **FPS Knife Arena**. Designed for 2026, this tool allows you to dominate the leaderboards, unlock skins, and farm levels while AFK.
 
-Auto Kill NPCs: AFK Farm levels and currency effortlessly.
+---
 
-Fast Attack: Swing faster and increase your hit reach.
+### 🚀 **Script Features**
+| Feature | Description |
+| :--- | :--- |
+| 🔴 **Auto Kill Players** | Instantly target and eliminate players for wins. |
+| 🤖 **Auto Kill NPCs** | Perfect for 24/7 AFK farming and XP gain. |
+| ⚡ **Fast Attack** | Increases swing speed and hit distance (Reach). |
+| 🔑 **Easy Key** | Fast, user-friendly key system activation. |
+| 🛡️ **Anti-Ban** | Updated security to keep your account safe. |
 
-Anti-Ban: Updated security for 2026.
+---
 
-Easy Key: Simple and fast activation process.
+### ⚙️ **How to Use**
+1. **Copy** the script code below.
+2. **Open** your preferred Roblox Executor.
+3. **Paste** the script and click **Execute**.
+4. **Complete** the quick key process and start winning!
 
-How to Use
-Copy the script below.
+---
 
-Open your Roblox executor.
-
-Paste and click Execute.
-
-Follow the easy key steps.
-
-The Script
-Lua
-
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/b88d74127ca847f90596eae93abd93bcfbda92599918dec56eca950e196fb2b3/download"))()
-
-Credits
-Showcase: BloxVid Official
-
-Provider: CoreTeck
+### 📜 **The Script**
+```lua
+loadstring(game:HttpGet("[https://api.jnkie.com/api/v1/luascripts/public/b88d74127ca847f90596eae93abd93bcfbda92599918dec56eca950e196fb2b3/download](https://api.jnkie.com/api/v1/luascripts/public/b88d74127ca847f90596eae93abd93bcfbda92599918dec56eca950e196fb2b3/download)"))()
